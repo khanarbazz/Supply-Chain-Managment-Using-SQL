@@ -8,4 +8,10 @@ This repository contains scripts and analyses for Supply Chain Management using 
 - **Inventory Analysis**: Analyzed and addressed low inventory levels to ensure sufficient stock availability.
 - **Product and Category Analysis**: Conducted Top 5 and Bottom 5 analyses for products and categories to guide decision-making.
 - **Reorder Recommendations**: Generated recommendations based on data insights to enhance supply chain efficiency.
-- **Sales Data Manag
+- **Sales Data Managment**:: Updated and maintained sales data for accurate reporting and decision support.
+
+ 
+ **Run SQL Scripts**: Use your preferred SQL environment (I performed on MySQL Workbench) to execute the scripts.
+
+## Contributer   
+ - Khan Arbaz
